@@ -203,7 +203,7 @@ class StayFreshApp extends StatelessWidget {
             title: 'StayFresh',
             debugShowCheckedModeBanner: false,
             theme: ThemeProvider.lightTheme,
-            darkTheme: ThemeProvider.darkTheme,
+    
             home: const AuthWrapper(),
             routes: {
               '/login': (context) => const LoginScreen(),

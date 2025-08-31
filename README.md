@@ -188,6 +188,22 @@ The app schedules local notifications 2 days before items expire. Notifications 
 - **Smooth Animations**: Enhanced user experience
 - **Dark Mode Ready**: Theme system prepared for dark mode
 
+## Screenshots
+
+### Login Page
+<img src="assets/screenshot/login.png" width="400" />
+
+### Home Screen
+<img src="assets/screenshot/homepage.png" width="400" />
+
+### Add Item Screen
+<img src="assets/screenshot/add_item.png" width="400" />
+
+### Setting Pzge / Profile Page 
+<img src="assets/screenshot/setting.png" width="400" />
+
+
+
 ## 🧪 Testing
 
 The app includes dummy data for testing UI components before Firebase integration:
