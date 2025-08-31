@@ -75,7 +75,7 @@ dependencies:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Dhiraj706Sardar/stayfresh.git
    cd stayfresh
    ```
 
@@ -260,3 +260,5 @@ For support, email support@stayfresh.app or create an issue in the repository.
 ---
 
 **StayFresh** - Never let your groceries go bad again! 🥬✨
+
+**Note:** This project is still under active development. Features and structure may change as work progresses.
