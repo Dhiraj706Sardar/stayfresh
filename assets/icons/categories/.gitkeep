@@ -1,0 +1,20 @@
+# Category Icons
+#
+# Suggested filenames:
+# - icon_fruits.png (Apple or mixed fruits icon)
+# - icon_vegetables.png (Carrot or leafy vegetable icon)
+# - icon_dairy.png (Milk bottle or cheese icon)
+# - icon_meat.png (Meat/protein icon)
+# - icon_bakery.png (Bread or croissant icon)
+# - icon_beverages.png (Drink bottle or glass icon)
+# - icon_snacks.png (Chips or snack icon)
+# - icon_frozen.png (Snowflake or frozen food icon)
+# - icon_other.png (Generic grocery bag icon)
+# - icon_canned.png (Canned goods icon)
+# - icon_spices.png (Spice jar icon)
+# - icon_seafood.png (Fish icon)
+#
+# Recommended size: 48x48px or 64x64px
+# Format: PNG with transparency
+# Style: Minimalist line icons with green color scheme
+# Usage: Category selection dropdowns and filters

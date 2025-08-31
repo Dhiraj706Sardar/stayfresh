@@ -1,0 +1,13 @@
+# App Illustrations & Graphics
+#
+# Suggested filenames:
+# - empty_grocery_list.png (Empty state for grocery list)
+# - all_fresh_celebration.png (Success state when no items expiring)
+# - expired_items_warning.png (Warning illustration for expired items)
+# - barcode_scanner_guide.png (Scanner instruction illustration)
+# - notification_bell.png (Notification-related graphics)
+# - fresh_vegetables_hero.png (Hero image for dashboard)
+#
+# Recommended size: 200x200px to 400x400px
+# Format: PNG with transparency or SVG
+# Style: Minimalist, clean, matching app's green theme

@@ -1,0 +1,19 @@
+# Placeholder Images
+#
+# Suggested filenames:
+# - default_grocery_item.png (Default image for items without photos)
+# - user_avatar_placeholder.png (Default user profile picture)
+# - image_upload_placeholder.png (Placeholder for image picker)
+# - category_fruits.png (Default image for fruits category)
+# - category_vegetables.png (Default image for vegetables category)
+# - category_dairy.png (Default image for dairy category)
+# - category_meat.png (Default image for meat category)
+# - category_bakery.png (Default image for bakery category)
+# - category_beverages.png (Default image for beverages category)
+# - category_snacks.png (Default image for snacks category)
+# - category_frozen.png (Default image for frozen category)
+# - category_other.png (Default image for other category)
+#
+# Recommended size: 100x100px to 200x200px
+# Format: PNG with transparency
+# Style: Simple, clean icons with subtle green accents

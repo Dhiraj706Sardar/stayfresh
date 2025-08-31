@@ -1,0 +1,26 @@
+# Navigation & UI Icons
+#
+# Suggested filenames:
+# - nav_home_active.png (Active home tab icon)
+# - nav_home_inactive.png (Inactive home tab icon)
+# - nav_add_active.png (Active add item tab icon)
+# - nav_add_inactive.png (Inactive add item tab icon)
+# - nav_reminders_active.png (Active reminders tab icon)
+# - nav_reminders_inactive.png (Inactive reminders tab icon)
+# - nav_settings_active.png (Active settings tab icon)
+# - nav_settings_inactive.png (Inactive settings tab icon)
+# - icon_scan_barcode.png (Barcode scanner action icon)
+# - icon_camera.png (Camera action icon)
+# - icon_gallery.png (Gallery action icon)
+# - icon_notification.png (Notification bell icon)
+# - icon_filter.png (Filter/sort icon)
+# - icon_search.png (Search icon)
+# - icon_edit.png (Edit action icon)
+# - icon_delete.png (Delete action icon)
+# - icon_check.png (Success/complete icon)
+# - icon_warning.png (Warning/alert icon)
+#
+# Recommended size: 24x24px or 32x32px
+# Format: PNG with transparency or SVG
+# Style: Consistent with Material Design, green accent colors
+# Usage: Bottom navigation, action buttons, UI elements
