@@ -191,16 +191,16 @@ The app schedules local notifications 2 days before items expire. Notifications 
 ## Screenshots
 
 ### Login Page
-<img src="assets/screenshot/login.png" width="400" />
+<img src="assets/screenshot/login.png" width="300" />
 
 ### Home Screen
-<img src="assets/screenshot/homepage.png" width="400" />
+<img src="assets/screenshot/homepage.png" width="300" />
 
 ### Add Item Screen
-<img src="assets/screenshot/add_item.png" width="400" />
+<img src="assets/screenshot/add_item.png" width="300" />
 
 ### Setting Pzge / Profile Page 
-<img src="assets/screenshot/setting.png" width="400" />
+<img src="assets/screenshot/setting.png" width="300" />
 
 
 
