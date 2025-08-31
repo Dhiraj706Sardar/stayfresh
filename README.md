@@ -271,7 +271,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@stayfresh.app or create an issue in the repository.
+For support, email sardardhiraj706@gmail.com or create an issue in the repository.
 
 ---
 
